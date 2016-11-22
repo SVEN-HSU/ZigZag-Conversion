@@ -1,0 +1,6 @@
+E:\000_工作\Leetcode\ZigZag Conversion\ZigZag Conversion\bin\Debug\ZigZag Conversion.exe.config
+E:\000_工作\Leetcode\ZigZag Conversion\ZigZag Conversion\bin\Debug\ZigZag Conversion.exe
+E:\000_工作\Leetcode\ZigZag Conversion\ZigZag Conversion\bin\Debug\ZigZag Conversion.pdb
+E:\000_工作\Leetcode\ZigZag Conversion\ZigZag Conversion\obj\Debug\ZigZag Conversion.csprojResolveAssemblyReference.cache
+E:\000_工作\Leetcode\ZigZag Conversion\ZigZag Conversion\obj\Debug\ZigZag Conversion.exe
+E:\000_工作\Leetcode\ZigZag Conversion\ZigZag Conversion\obj\Debug\ZigZag Conversion.pdb
