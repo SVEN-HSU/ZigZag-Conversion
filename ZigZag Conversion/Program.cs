@@ -54,13 +54,13 @@ namespace ZigZag_Conversion
                 for (int j = 0; j < gap; j++ )
                 {
                     // 0 1 2 3 2 1
-                    // adjust index of row
+                    // adjust index of strings
                     if (j >= _str.Length)
                     {
                         row_id = gap - j;
                     }
 
-                    // prevent index out of range
+                    // prevent index of chars out of range
                     if ((j + i) >= _s.Length)
                     {
                         break;
